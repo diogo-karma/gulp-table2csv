@@ -1,0 +1,41 @@
+{
+  "name": "gulp-table2csv",
+  "version": "1.0.0",
+  "description": "Convert html tables to valid csv.",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "homepage": "https://github.com/nechtan/gulp-table2csv",
+  "bugs": {
+    "url": "https://github.com/nechtan/gulp-table2csv/issues"
+  },
+  "author": {
+    "name": "Dg Nechtan",
+    "email": "nechtan@me.com",
+    "url": "https://github.com/nehtan"
+  },
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nechtan/gulp-table2csv.git"
+  },
+  "dependencies": {
+    "map-stream": ">=0.0.4",
+    "jquery": "~2.1.0",
+    "jsdom": "~0.10.1"
+  },
+  "devDependencies": {
+    "gulp": ">=3.0.0",
+    "gulp-jshint": ">=1.1.0"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "readmeFilename": "README.md"
+}
