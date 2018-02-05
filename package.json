@@ -20,9 +20,9 @@
     "url": "git://github.com/nechtan/gulp-table2csv.git"
   },
   "dependencies": {
-    "map-stream": ">=0.0.4",
-    "jquery": "~2.1.0",
-    "jsdom": "~0.10.1"
+    "jquery": "^3.3.1",
+    "jsdom": "~0.10.1",
+    "map-stream": ">=0.0.4"
   },
   "devDependencies": {
     "gulp": ">=3.0.0",
